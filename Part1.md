@@ -4,13 +4,7 @@
 
 ### 自然教育 Natural Educational / 环境教育 Environmental education
 
-自然学家或者科学家描述以自然为基础的课程，如在公园、博物馆、自然中心、动物园、水族馆等场所展开的课程。
 
-有时这个词也指与动植物等相关的课堂内容，或者自然探索和在户外展开的课程。
-
-儿童环境教育的目标 ，不是仔细研究环境问题，而是要为儿童创造机会，让他们在自然中体验惊喜、舒适和爱。 
-
-https://naaee.org/about-us/about-ee-and-why-it-matters
 
 
 
@@ -38,72 +32,5 @@ https://en.wikipedia.org/wiki/Biophilia_hypothesis
 
 
 
-### 自然教育的本质
-
-经何教练提醒，重新读了下阳老的文章《真正的教育》和《古典教育与未来教育》： 
 
 
-
-教育的本质是 人与人的交互； 
-
-设计：人机交互 
-
-技术：机机交互 
-
-
-
-那自然教育呢？   
-
-1、人与自然 
-
-2、人与人 
-
-人与自然，可以看成是人与环境人与事物的互动，与植物与动物与自然景观和事物…  
-
-人与人，就是孩子与父母、与户外教练、与其他小伙伴； 
-
-
-
-以这个为框架来考虑课程和活动的设计，并结合古典教育和未来教育的两个黄金三角型，可以作为课程设计的一个模型。 
-
-
-
-五大元学科 、古典教育与未来教育、真善美 
-
-理性思维：认知科学 
-
-数学思维：数学 
-
-美学思维：文学、诗歌、绘画、音乐； 
-
-复杂思维：网络科学 
-
-计算思维：计算机科学 
-
-
-
-古典教育和未来教育如何贯穿在自然教育中呢？ 
-
-
-
-真正的教育 
-
-<https://mp.weixin.qq.com/s/l72EPohJPOG9Dkv4PswzSA>
-
-古典教育与未来教育 
-
-<https://www.yangzhiping.com/psy/Classical-education-and-Future-education.html>
-
-
-
-
-
-### 
-
-
-
-早期儿童环境教育计划：卓越指南 
-
-Early Childhood Environmental Education Programs: Guidelines for Excellence 
-
-https://naaee.org/sites/default/files/early_childhood_workshop_revised.pdf
